@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d403dcdd85b36486a920cfbf6c11560a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lerpSpeed: 3
+  lerpSpeed: 6
   offsetPlayer: {x: 1, y: 1}
   limitCameraUp: 30
   limitCameraBelow: -3

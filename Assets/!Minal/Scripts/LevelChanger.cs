@@ -9,6 +9,9 @@ public class LevelChanger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene(targetSceneName);
+        if (other.CompareTag("Player"))
+        {
+            SceneManager.LoadScene(targetSceneName);
+        }
     }  
 }
