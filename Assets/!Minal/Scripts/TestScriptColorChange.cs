@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class TestScriptColorChange : MonoBehaviour
-{  
+{
+    
     void OnEnable()
     {
         EventManager.OnControlPressed += ChangeRed;
@@ -26,23 +27,23 @@ public class TestScriptColorChange : MonoBehaviour
         Debug.Log(isRed);
     }
 
+    [SerializeField] GameObject g;
     void TurnColor()
     {
         if (isRed == true)
         {
-            Color col = new Color(Random.value, Random.value, Random.value, 0.5f);
-            GetComponent<Renderer>().material.color = col;
+            Color _col = gameObject.GetComponent<Renderer>().material.color;
+            _col.a = 1f;
+            gameObject.GetComponent<MeshRenderer>().material.color = _col;
+            GetComponent<MeshCollider>().enabled = true;
         }   
         else if (isRed == false)
         {
-            Color col = new Color(Random.value, Random.value, Random.value);
-            GetComponent<Renderer>().material.color = col;
+            Color _col = gameObject.GetComponent<Renderer>().material.color;
+            _col.a = 0.3f;
+            gameObject.GetComponent<MeshRenderer>().material.color = _col;          
+            GetComponent<MeshCollider>().enabled = false;
         }
-    }
-    void TurnBack()
-    {
-        Color col = new Color(Random.value, Random.value, Random.value);
-        GetComponent<Renderer>().material.color = col;
-    }
+    }   
 }
-
+//(Random.value, Random.value, Random.value);

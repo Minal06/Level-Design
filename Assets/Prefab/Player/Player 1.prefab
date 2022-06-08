@@ -8808,7 +8808,7 @@ MonoBehaviour:
   wallSlidingSpeed: 0.6
   wallStickTime: 1.5
   wallStickTimeCounter: 0
-  wallSlidingJumpForce: {x: 5, y: 2}
+  wallSlidingJumpForce: {x: 5, y: 3}
   isWallSliding: 0
   breathBubbleFX: {fileID: 1974713541235129055, guid: 19c3b3856d2434d1485ab39f3aa04149, type: 3}
   bubbleTrailFX: {fileID: 8517286972581918459}
