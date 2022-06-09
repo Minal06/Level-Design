@@ -8826,11 +8826,11 @@ MonoBehaviour:
   accelerationTimeAirborne: 0.2
   accelerationTimeGroundedRun: 0.1
   accelerationTimeGroundedSliding: 1
-  soundFootStep: {fileID: 8300000, guid: b0c9066c9cbe449cc86adc4d81ff9c1f, type: 3}
+  soundFootStep: {fileID: 8300000, guid: 2c7ab9bda8ff6364ba31cc57a90a16d5, type: 3}
   soundFootStepVolume: 0.2
-  soundJump: {fileID: 8300000, guid: c3daf692773454abdb16342e34f6a4b7, type: 3}
+  soundJump: {fileID: 8300000, guid: 7f4bb31f06728be4ba0bed5c2641896c, type: 3}
   soundHit: {fileID: 8300000, guid: ff82156e5da8f475f8144df2ee49dad2, type: 3}
-  soundDie: {fileID: 8300000, guid: fb9233ec691b64d67a4511e52837889f, type: 3}
+  soundDie: {fileID: 8300000, guid: d4ce8205a3ae9ab4181dbc190b1a837e, type: 3}
   soundSlide: {fileID: 8300000, guid: abef69332a0bf413dab2538c25766508, type: 3}
   GroundParameter:
     moveSpeed: 5
