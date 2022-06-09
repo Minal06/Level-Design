@@ -848,7 +848,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 2.575e-41, y: NaN, z: 9.07e-43, w: NaN}
+  m_BoundingSphereOverride: {x: 1.08e-43, y: 6.386e-42, z: 1.02e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -17769,10 +17769,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1097052255, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
-      propertyPath: musicsGame
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 2694258055134568695, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
       propertyPath: m_Name
       value: GameManager
@@ -17819,10 +17815,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2694258055134568696, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2694258055134568697, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
-      propertyPath: isTestLevel
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

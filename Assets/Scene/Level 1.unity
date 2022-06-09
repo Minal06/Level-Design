@@ -3461,6 +3461,10 @@ PrefabInstance:
     - target: {fileID: 1097052255, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
       propertyPath: musicsGame
       value: 
+      objectReference: {fileID: 8300000, guid: 0d0003fcb4af6aa458149b55804acbf8, type: 3}
+    - target: {fileID: 1097052255, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
+      propertyPath: musicsGameVolume
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 2694258055134568695, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
       propertyPath: m_Name

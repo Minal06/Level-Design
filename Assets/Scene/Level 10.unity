@@ -7258,10 +7258,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1097052255, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
-      propertyPath: musicsGame
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 2694258055134568695, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
       propertyPath: m_Name
       value: GameManager
@@ -7308,10 +7304,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2694258055134568696, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2694258055134568697, guid: 3dbc88b77a81449088d04ee31843acc0, type: 3}
-      propertyPath: isTestLevel
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
