@@ -26,5 +26,13 @@ public class EventManager : MonoBehaviour
             }             
             
         }
+        if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+            if (OnControlPressed != null)
+            {
+                OnControlPressed();
+            }
+
+        }
     }
 }
