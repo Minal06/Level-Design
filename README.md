@@ -6,7 +6,7 @@ This was one of my first level designing attempts, with some extra scripts I wro
   * [Overall](https://github.com/Minal06/Revulo-Games#overall)
   * [Game rules](https://github.com/Minal06/Revulo-Games#game-rules)
   * [Gameplay](https://github.com/Minal06/Revulo-Games#gameplay)
-  * [Links](https://github.com/Minal06/Revulo-Games#links)
+  * [Links](https://github.com/Minal06/Revulo-Games#link)
 
 ## Overall
 I received an Unity Asset package called Tiki 2.5D.
