@@ -13,13 +13,13 @@ I received an Unity Asset package called Tiki 2.5D.
 
 My task was to create a level with given tools, and additional assets from Unity Asset Store or other sources.
 
-Instead of creating one long level, I decided to create 10 scenes with a short levels on it. 
+Instead of creating one long level, I decided to create 10 scenes with short levels on it. 
 
 It still could work as a single scene with a usage of Player.Transform on each EndGoal.
 
 I also added a few new scripts to add new game mechanics such as turning on/off different game objects, or moving background.
 
-In-Game mechanics are explaind via neon lights on each training level. After that, neon lights are used to troll player, or be a comic relief.
+In-Game mechanics are explained via neon lights on each training level. After that, neon lights are used to troll player, or be a comic relief.
 
 **All my scripts can be found in assets folder !Minal.**
 
