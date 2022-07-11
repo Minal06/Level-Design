@@ -4,7 +4,7 @@ This was one of my first level designing attempts, with some extra scripts I wro
 
 ## Table of Contents
   * [Overall](https://github.com/Minal06/Revulo-Games#overall)
-  * [Game rules](https://github.com/Minal06/Revulo-Games#game_rules)
+  * [Game rules](https://github.com/Minal06/Revulo-Games#game-rules)
   * [Gameplay](https://github.com/Minal06/Revulo-Games#gameplay)
   * [Links](https://github.com/Minal06/Revulo-Games#links)
 
